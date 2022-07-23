@@ -79,12 +79,12 @@
 
 .amount-button {
     width: 10%;
-    height: 90px;
+    height: 80px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: 25px;
     background: #FAFAFA;
     font-weight: bold;
     border-radius: 5px;
@@ -96,7 +96,7 @@
     display: block;
     width: 100%;
     text-align: center;
-    padding: 15px 0;
+    padding: 15px;
     font-size: 20px;
     border-top: 0;
     border-right: 0;
@@ -120,4 +120,63 @@
     border-radius: 6px;
 }
 
-.donate-plan
+.donate-plan {
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    text-align: center;
+    
+}
+
+.donate-plan h1 {
+    font-size: 70px;
+}
+
+.donate-plan p {
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+.donate-plan-iteams {
+    height:350px;
+    width:100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.donate-plan-iteams img {
+    text-align: left;
+    padding: 5%;
+}
+
+.food {
+    width: 25%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color:coral
+}
+
+.box-text {
+    padding-left:20px;
+    padding-right: 20px;
+}
+
+.shelter {
+    background-color: aquamarine;
+    width: 25%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.education{
+    width: 25%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: papayawhip;
+}
