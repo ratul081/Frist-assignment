@@ -59,15 +59,15 @@
 
 .text-two-p {
     text-align: center;
-    font-size: 40px;
-    padding: 10px;
+    font-size: 30px;
+    padding: 40px;
 }
 
 .donate-amount-buttons {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 
 }
 
@@ -144,7 +144,7 @@
 
 .donate-plan-iteams img {
     text-align: left;
-    padding: 5%;
+    padding: 8%;
 }
 
 .food {
