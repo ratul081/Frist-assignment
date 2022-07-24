@@ -33,7 +33,7 @@
 
 .donate-now-button {
     text-decoration: none;
-    background: #eb4034;
+    background: linear-gradient(45deg, lightsalmon, tomato);;
     padding: 10px 20px;
     color: white;
     font-size: 25px;
@@ -108,7 +108,7 @@
 
 .donate-now-button-two {
     text-decoration: none;
-    background: cornflowerblue;
+    background: tomato;
     padding: 10px 15px;
     color: white;
     font-size: 20px;
